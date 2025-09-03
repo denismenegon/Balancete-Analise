@@ -1,0 +1,10 @@
+# Arquivos e pastas gerados pelo PyInstaller
+dist/
+build/
+*.toc
+*.pyz
+*.pyo
+*.pyc
+
+# Arquivos temporários e de log
+*.log
