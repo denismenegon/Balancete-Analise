@@ -36,6 +36,17 @@ Interface gráfica intuitiva para parametrização de arquivos e pastas
 
 Distribuição facilitada como executável standalone (.exe)
 
+🖥️ UI - Telas do Aplicativo
+A interface gráfica de usuário (GUI) é construída com Tkinter e apresenta os seguintes elementos para o processamento:
+
+Tela de Entrada e Saída
+Esta tela inicial permite ao usuário carregar o arquivo de entrada .xls/.xlsx para quando for .xls por incompatibilidade com arquivo é convertido para o .xlsx via LibreOffice headless.
+
+![Parametrizão](tela_01.png)
+![Conversão para .xlsx](tela_02.png)
+![Conversão somente com informações necessárias](tela_03.png)
+![Resultado Final](tela_04.png)
+
 ✅ Resultados Obtidos
 
 Automação de verificações contábeis (Débito x Crédito por Nota Fiscal, saldo anterior)
