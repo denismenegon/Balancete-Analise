@@ -42,7 +42,7 @@ A interface gráfica de usuário (GUI) é construída com Tkinter e apresenta os
 Tela de Entrada e Saída
 Esta tela inicial permite ao usuário carregar o arquivo de entrada .xls/.xlsx para quando for .xls por incompatibilidade com arquivo é convertido para o .xlsx via LibreOffice headless.
 
-![Parametrizão](tela_01.png)
+![Parametrização](tela_01.png)
 ![Conversão para .xlsx](tela_02.png)
 ![Conversão somente com informações necessárias](tela_03.png)
 ![Resultado Final](tela_04.png)
